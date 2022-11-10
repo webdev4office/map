@@ -3,7 +3,6 @@ var locations = [];
 var gmarkers1 = [];
 var infoWindowMyLocation
 var infowindow;
-var cityCircle = {};
 
 function initMap() {
   
